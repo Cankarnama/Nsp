@@ -1,0 +1,23 @@
+{
+    "Ivan": {
+      "fullname":"Ivan Sossu",
+      "age":24,
+      "dob":"20,May,1998",
+      "complexion":"chocolate",
+      "marital-status":"single"
+    },
+  
+    "Karen":  {
+      "occupation":"software engineering",
+      "gender":"female",
+      "marital-status":"single",
+      "complexion":"chocolate"
+    },
+  
+   "Dennis":{
+    "height":1.9,
+    "weight":82
+
+   }
+    
+}
